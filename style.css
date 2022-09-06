@@ -536,6 +536,7 @@ align-items: center;
     border: 1px solid #fff;
     font-variant:small-caps;
     font-size: 1.4rem;
+    height:2.5rem;
     border-radius:7px ;
     transition: .3s all ease-in-out;
 }
